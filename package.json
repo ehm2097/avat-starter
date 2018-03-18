@@ -1,0 +1,21 @@
+{
+  "name": "avat-starter",
+  "version": "1.0.0",
+  "description": "Learning project",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehm2097/avat-starter.git"
+  },
+  "author": "avat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehm2097/avat-starter/issues"
+  },
+  "homepage": "https://github.com/ehm2097/avat-starter#readme"
+}
