@@ -2,3 +2,5 @@
 A first repository, which possibly will get some real stuff inside too
 
 For now my purpose is just to learn Git & Github features and how to make a project benefit from these
+
+Now let's suppose someone changed this file on the master branch
